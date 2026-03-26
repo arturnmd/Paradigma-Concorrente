@@ -1,4 +1,4 @@
-package projeto;
+package br.com.banco.thread;
 
 public class Banco {
 
