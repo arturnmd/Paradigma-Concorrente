@@ -1,4 +1,4 @@
-package projeto;
+package br.com.banco.thread;
 import java.util.Scanner;
 
 public class Main {
